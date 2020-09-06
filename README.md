@@ -11,13 +11,17 @@ C++ to JSON Converter
 
 > Except for some attributes like stateMutability, Everything mentioned in the sample output and also some more information extracted.
 
-# Files
+# Installation
 
-- `main.py`: The main File
+```console
+foo@bar:~$ python3 -m venv ./venv
+foo@bar:~$ source venv/bin/activate  
+foo@bar:~$ pip3 install -r requirements.txt
+```
 
 # Execution Instructions:
 
-> Just write whichever code you want to parse in a file and pass that file as input to `main.py` and execute it will print the output in the console.
+> Just write some c++ code you want to parse in a file and pass that file as input to `main.py` and execute it will print the output in the console.
 
 # Command:
 
