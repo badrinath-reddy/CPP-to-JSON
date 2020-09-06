@@ -9,7 +9,7 @@ C++ to JSON Converter
 
 # Status
 
-> Except for some attributes like stateMutability, Everything mentioned in the sample output and also some more information extracted. **completed**
+> Except for some attributes like stateMutability, Everything mentioned in the sample output and also some more information extracted.
 
 # Files
 
