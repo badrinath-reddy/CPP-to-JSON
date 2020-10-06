@@ -7,11 +7,8 @@ C++ to JSON Converter
     Badrinath
     Dhanvanth
 
-# Status
 
-> Except for some attributes like stateMutability, Everything mentioned in the sample output and also some more information extracted.
-
-# Installation
+# Instructions for setup
 
 ```console
 foo@bar:~$ python3 -m venv ./venv
